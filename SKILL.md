@@ -95,3 +95,5 @@ tags: [nutrition, osteoporosis, bone-health, dietary-guide, tcm]
 
 *创建者：王润圆（中国注册营养师，昆明医科大学营养与食品卫生学硕士）*
 *来源：《成人骨质疏松症食养指南（2026年版）》国家卫生健康委办公厅发布*
+
+<!-- Maintainer update: Runyuan Wang (9s5bz2jvd2-lang). -->
